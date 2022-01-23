@@ -5,8 +5,6 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/88663603/141272758-f1857e9b-e2d0-4381-9e68-eddcb193edab.png" width="250"> 
     <img src="https://user-images.githubusercontent.com/88663603/141272690-4949f8f9-6c70-4352-b867-5201adc90f5f.png" width="250"> 
-   
-</p>
 
 <a id="contribution"></a>
 
