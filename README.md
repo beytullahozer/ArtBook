@@ -1,4 +1,4 @@
-# ArtBook
+# Art Book
 
 <br> Core data kullanarak eklenilen seçimler yapılır ve data kaydedilir.
 
