@@ -1,6 +1,6 @@
 # ArtBook
 
-<br>
+<br> Core data kullanarak eklenilen seçimler yapılır ve data kaydedilir.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/88663603/141272758-f1857e9b-e2d0-4381-9e68-eddcb193edab.png" width="250"> 
