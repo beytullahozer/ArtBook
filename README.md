@@ -1,7 +1,8 @@
 # Art Book
 
-<br> 👋🏻 Herkese Merhaba, Core Data kullanmamış kişiler için ilk başlarda kullandığım ve sizler için de yararlı olabileceğini düşündüğüm çalışmayı sizinle paylaşmaktayım. 
-<br> 🎖 Core data kullanarak seçimler yapılmakta ve data kaydedilmektedir
+<br> 👋🏻 Hello everyone, I am sharing with you the study that I used at first for people who have not used Core Data and I think it may be useful for you as well.
+
+<br> 🎖 Using core data, selections are made and data is saved.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/88663603/141272758-f1857e9b-e2d0-4381-9e68-eddcb193edab.png" width="250"> 
