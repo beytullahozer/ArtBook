@@ -12,7 +12,8 @@
 
 <br>
 import UIKit
-import CoreData
+    <br>
+    import CoreData
 
 
 class toDetailsViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
@@ -155,11 +156,10 @@ class toDetailsViewController: UIViewController, UIImagePickerControllerDelegate
     }
 }
 
-    
-
-    
-
+   
+<br>
 import UIKit
+    <br>
 import CoreData
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
