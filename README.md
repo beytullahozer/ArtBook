@@ -1,6 +1,7 @@
 # Art Book
 
-<br> Core data kullanarak eklenilen seçimler yapılır ve data kaydedilir.
+<br> Herkese Merhaba, Core Data kullanmamış kişiler için ilk başlarda kullandığım ve sizler içinde yararlı olabileceğini düşündüğüm codu sizinle paylaşmaktayım. 
+<br> Core data kullanarak eklenilen seçimler yapılmakta ve data kaydedilmektedir
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/88663603/141272758-f1857e9b-e2d0-4381-9e68-eddcb193edab.png" width="250"> 
