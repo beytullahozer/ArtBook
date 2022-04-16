@@ -12,15 +12,6 @@
 
 <br>
 
-
-# toDetailsViewController.swift
-//
-//  toDetailsViewController.swift
-//  ArtBook
-//
-//  Created by Beytullah Özer on 26.10.2021.
-//
-
 import UIKit
 import CoreData
 
@@ -166,14 +157,7 @@ class toDetailsViewController: UIViewController, UIImagePickerControllerDelegate
 
 }
 
-
-# ViewController.swift
-//
-//  ViewController.swift
-//  ArtBook
-//
-//  Created by Beytullah Özer on 26.10.2021.
-//
+    <br>
 
 import UIKit
 import CoreData
