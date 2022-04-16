@@ -153,11 +153,11 @@ class toDetailsViewController: UIViewController, UIImagePickerControllerDelegate
         self.navigationController?.popViewController(animated: true) // Storyboard üzerinde Geri gelindiğinde kaydeder ve gösterir.
       
     }
-    
-
 }
 
-    <br>
+    
+
+    
 
 import UIKit
 import CoreData
